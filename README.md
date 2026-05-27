@@ -40,23 +40,37 @@ The goal is to analyze operational data and uncover actionable insights to impro
 
 ---
 
-## 📂 Dataset
+## 📂 Datasets Used
 
-Dataset Used:
+This project uses **two datasets**:
 
-**DataCo Supply Chain Dataset**
+### 1. DataCoSupplyChainDataset.csv
+Main dataset containing real-world supply chain operational data.
 
-Contains information related to:
+Includes information related to:
 
 - Orders
-- Shipping & Delivery
 - Customers
-- Product Categories
-- Regions
-- Profit & Sales
-- Order Status
+- Products
+- Sales & Profit
+- Shipping Details
+- Delivery Status
+- Regions & Markets
+- Order Dates
 - Shipping Modes
 
+### 2. DescriptionDataCoSupplyChain.csv
+Supporting dataset containing **column descriptions and metadata** for the main dataset.
+
+Used for:
+
+- Understanding dataset attributes
+- Feature interpretation
+- Data dictionary/reference purposes
+
+---
+
+Source: **DataCo Global Supply Chain Dataset**
 ---
 
 ## 📊 Analysis Performed
