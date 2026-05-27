@@ -244,9 +244,5 @@ Through this project, I learned:
 
 ---
 
-## 👨‍💻 Author
-
-**Toufique Khan**
-
-B.Tech Computer Science Student  
-Interested in **Data Analytics, Data Science, and Frontend Development**.
+## 👨‍💻 Author 
+**Toufique Ahmed Khan**
