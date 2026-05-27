@@ -175,13 +175,15 @@ Some major findings from the analysis:
 ## 🚀 Project Structure
 
 ```plaintext
+
 Supply-Chain-Analysis/
 │
 ├── Supply Chain Analysis.ipynb
-├── clean_supply_chain.csv
+├── DataCoSupplyChainDataset.csv
+├── DescriptionDataCoSupplyChain.csv
 ├── README.md
-└── dataset.csv
 ```
+
 
 ---
 
