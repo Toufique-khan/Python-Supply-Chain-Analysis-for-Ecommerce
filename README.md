@@ -43,6 +43,8 @@ The goal is to analyze operational data and uncover actionable insights to impro
 ## 📂 Datasets Used
 
 This project uses **two datasets**:
+# Download Datset
+https://drive.google.com/drive/folders/1MaWYcy5SDUvK5gtV3HK5VG7FdLW4YQKH?usp=drive_link
 
 ### 1. DataCoSupplyChainDataset.csv
 Main dataset containing real-world supply chain operational data.
